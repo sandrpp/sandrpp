@@ -6,6 +6,6 @@ I am currently learning web development, but mainly backend.
 besides school, i program plugins for a Minecraft server with 
 friends 🧙‍♂️ and volunteer in IT at the child protection association in my city 🧒🏻.
 Also check out the [SimpleTimer Plugin](https://github.com/sandrpp/SimpleTimer) if you
-are into minecraft plguins!
+are into minecraft plugins!
 
 ### have a good one!
